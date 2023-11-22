@@ -27,7 +27,7 @@ This is a simple Flask application that serves as an example of building a REST 
 3.  Create a virtual environment (optional but recommended):
         
   ```bash
-    python -m venv
+    python -m venv ./venv
   ```
     
 4.  Activate the virtual environment:
