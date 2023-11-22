@@ -104,3 +104,16 @@ The application will be accessible at `http://127.0.0.1:5000/`.
     ```bash
     "Why don't scientists trust atoms? Because they make up everything!"
     ```
+
+## Tests
+This project demostrates testing using both **unittest** and **pytest**
+
+To run the tests with the 'unittest' module run the following
+```bash
+python test_app_unittest.py
+```
+
+To run the tests with the 'pytest' module run the following
+```bash
+python test_app_pytest.py
+```
