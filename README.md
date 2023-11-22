@@ -14,14 +14,14 @@ This is a simple Flask application that serves as an example of building a REST 
 1. Clone the repository:
 
   ```bash
-    git clone https://github.com/yourusername/your-flask-app.git
+    git clone https://github.com/kgaban/simple-flask-app.git
   ```
     
 2.  Navigate to the project directory:
     
     
   ```bash
-    cd your-flask-app
+    cd simple-flask-app
   ```
     
 3.  Create a virtual environment (optional but recommended):
