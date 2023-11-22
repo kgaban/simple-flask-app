@@ -83,7 +83,7 @@ class Joke(Resource):
         random_joke = get_random_joke()
 
         if random_joke:
-            return random_joke
+            return {"joke": random_joke}
 
         return {"error": "Failed to fetch a joke."}
 
